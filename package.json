@@ -2,6 +2,7 @@
   "name": "express-interview-prep",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "nodemon server.js"
   },
